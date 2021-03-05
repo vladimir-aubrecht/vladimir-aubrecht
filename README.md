@@ -2,7 +2,7 @@
 
 **What you can find here**
 - 👾 Only hobby projects.
-- 🎁 Only open source projects, Apache license - ping me if it doesn't work for you for some reason, we can discuss that.
+- 🎁 Mostly open source projects, Apache license - ping me if it doesn't work for you for some reason, we can discuss that.
 
 **What I am currently actively working on**
 - Move my old drawer projects to GitHub with a hope that somebody could one day levarage that code.
