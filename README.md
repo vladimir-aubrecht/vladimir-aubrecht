@@ -6,7 +6,7 @@
 
 **What I am currently actively working on**
 - Move my old drawer projects to GitHub with a hope that somebody could one day levarage that code.
-- Mechanical keyboard (arduino based) -> I am planning to document process into [Tutorials](https://github.com/vladimir-aubrecht/Tutorials) repo later.
+- [Mechanical keyboard](https://github.com/vladimir-aubrecht/Keyboard) (arduino based) -> I am planning to document process into [Tutorials](https://github.com/vladimir-aubrecht/Tutorials) repo later.
 
 **Collaboration**
 
